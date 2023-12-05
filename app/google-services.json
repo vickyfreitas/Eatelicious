@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "593838431085",
+    "project_id": "eatelicious-660c1",
+    "storage_bucket": "eatelicious-660c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593838431085:android:9e2bed61b5aeb3e23a1864",
+        "android_client_info": {
+          "package_name": "com.example.eatelicious"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6uJTVoPg7c89j48jy20tJ1OhFA0U-c1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
